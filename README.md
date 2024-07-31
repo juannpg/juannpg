@@ -25,11 +25,11 @@ Here are some of the projects I have been working on:
 1. **HTTP Protocol Project**
    - **Description:** A project demonstrating how to create a server that handles the four main HTTP requests using PostgreSQL, Express, Prisma, and Node.js.
    - **Technologies:** Node.js, Express, PostgreSQL, Prisma
-   - **Repository:** [HTTP Protocol Project](https://github.com/juannpg/http-protocol-project)
+   - **Repository:** [HTTP Protocol Project](https://github.com/juannpg/http-protocol-server)
 
 2. **JavaScript calculator**
    - **Description:** A simple modern-style calculator.
-   - **Repository:** [Project Repository](https://github.com/your-username/project-repository)
+   - **Repository:** [Project Repository](https://github.com/juannpg/practica-calculadora)
 
 ## Get In Touch
 I am always open to collaborating on projects and learning opportunities. Feel free to reach out to me through:
