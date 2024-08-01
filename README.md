@@ -40,7 +40,7 @@ Here are some of the projects I have been working on:
 
 ## Get In Touch
 I am always open to collaborating on projects and learning opportunities. Feel free to reach out to me through:
-- [Discord](ralph2437)
-- [Email](mailto:juan.pasgut.workspace@gmail.com)
+- [Discord]ralph2437
+- [Email]juan.pasgut.workspace@gmail.com
 
 Thank you for visiting my GitHub profile!
