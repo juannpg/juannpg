@@ -7,9 +7,12 @@ Hello! I am an aspiring web developer passionate about both frontend and backend
 - **Frontend:**
   - JavaScript
   - TypeScript
+  - React
 
 - **Backend:**
   - Express.js
+  - TypeScript
+  - Prisma
 
 ## What I'm Learning
 I am currently enhancing my knowledge and skills in:
@@ -30,6 +33,10 @@ Here are some of the projects I have been working on:
 2. **JavaScript calculator**
    - **Description:** A simple modern-style calculator.
    - **Repository:** [Practica Calculadora](https://github.com/juannpg/practica-calculadora)
+   - 
+3. **Login server**
+   - **Description:** A simple Register/login app made with React.
+   - **Repository:** [React-restapi](https://github.com/juannpg/react-restapi)
 
 ## Get In Touch
 I am always open to collaborating on projects and learning opportunities. Feel free to reach out to me through:
