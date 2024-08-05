@@ -34,6 +34,10 @@ Here are some of the projects I have been working on:
    - **Description:** A simple modern-style calculator.
    - **Repository:** [Practica Calculadora](https://github.com/juannpg/practica-calculadora)
 
+3. **Twitter clone** (STILL ON DEVELOPMENT)
+   - **Description:** A simple twitter clone made to learn React components and advanve on prisma and express backend.
+   - **Repository:** [Twitter clone](https://github.com/juannpg/twitter-clone)
+
 ## Get In Touch
 I am always open to collaborating on projects and learning opportunities. Feel free to reach out to me through:
 - [Discord] ralph2437
