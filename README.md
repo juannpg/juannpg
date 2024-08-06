@@ -41,8 +41,8 @@ Here are some of the projects I have been working on:
 Other minor projects I've done are meant to serve as a guide for adding functionality to a website, such as:
 
 1. **Middleware login confirmation via token**
-  - **Description:** An app that verifies if you are logged in with a middleware
-  - **Repository:** [Token verify middleware](https://github.com/juannpg/middleware-token)
+   - **Description:** An app that verifies if you are logged in with a middleware
+   - **Repository:** [Token verify middleware](https://github.com/juannpg/middleware-token)
 
 ## Get In Touch
 I am always open to collaborating on projects and learning opportunities. Feel free to reach out to me through:
