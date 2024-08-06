@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello! I am an aspiring web developer passionate about both frontend and backend technologies. I am continuously learning and expanding my skill set to become a full-stack developer.
+I am an aspiring web developer. I am continuously learning and expanding my skill set to become a full-stack developer.
 
 ## Technologies I Know
 - **Frontend:**
@@ -18,8 +18,8 @@ Hello! I am an aspiring web developer passionate about both frontend and backend
 I am currently enhancing my knowledge and skills in:
 - Advanced JavaScript and TypeScript
 - Node.js and Express for backend development
-- Modern frontend frameworks (such as React, Vue, or Angular)
-- Database management and integration (such as PostgreSQL, MongoDB)
+- Modern frontend frameworks (such as Astro, React)
+- Database management and integration (such as PostgreSQL)
 - ORMs (such as prisma)
 
 ## Projects
@@ -34,13 +34,17 @@ Here are some of the projects I have been working on:
    - **Description:** A simple modern-style calculator.
    - **Repository:** [Practica Calculadora](https://github.com/juannpg/practica-calculadora)
 
-3. **Twitter clone** (STILL ON DEVELOPMENT)
+3. **Twitter clone** (ON DEVELOPMENT)
    - **Description:** A simple twitter clone made to learn React components and advanve on prisma and express backend.
    - **Repository:** [Twitter clone](https://github.com/juannpg/twitter-clone)
+
+Other minor projects I've done are meant to serve as a guide for adding functionality to a website, such as:
+
+1. **Middleware login confirmation via token**
+  - **Description:** An app that verifies if you are logged in with a middleware
+  - **Repository:** [Token verify middleware](https://github.com/juannpg/middleware-token)
 
 ## Get In Touch
 I am always open to collaborating on projects and learning opportunities. Feel free to reach out to me through:
 - [Discord] ralph2437
 - [Email] juan.pasgut.workspace@gmail.com
-
-Thank you for visiting my GitHub profile!
