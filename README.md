@@ -35,8 +35,8 @@ Here are some of the projects I have been working on:
    - **Repository:** [Practica Calculadora](https://github.com/juannpg/practica-calculadora)
 
 3. **Twitter clone** (ON DEVELOPMENT)
-   - **Description:** A simple twitter clone made to learn React components and advanve on prisma and express backend.
-   - **Repository:** [Twitter clone](https://github.com/juannpg/twitter-clone)
+   - **Description:** A twitter clone made to learn NextJS SSR and CSR, React components and advance on prisma and express backend.
+   - **Repository:** [Twitter clone]([https://github.com/juannpg/twitter-clone](https://github.com/juannpg/nextjs-twitter))
 
 Other minor projects I've done are meant to serve as a guide for adding functionality to a website, such as:
 
