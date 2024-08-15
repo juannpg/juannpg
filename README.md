@@ -25,18 +25,18 @@ I am currently enhancing my knowledge and skills in:
 ## Projects
 Here are some of the projects I have been working on:
 
-1. **HTTP Protocol Project**
+1. **Twitter clone**
+   - **Description:** A twitter clone made to learn NextJS SSR and CSR, React components and advance on prisma and express backend.
+   - **Repository:** [Twitter clone](https://github.com/juannpg/nextjs-twitter)
+
+2. **HTTP Protocol Project**
    - **Description:** A project demonstrating how to create a server that handles the four main HTTP requests using PostgreSQL, Express, Prisma, and Node.js.
    - **Technologies:** Node.js, Express, PostgreSQL, Prisma
    - **Repository:** [HTTP Protocol Project](https://github.com/juannpg/http-protocol-server)
 
-2. **JavaScript calculator**
+3. **JavaScript calculator**
    - **Description:** A simple modern-style calculator.
    - **Repository:** [Practica Calculadora](https://github.com/juannpg/practica-calculadora)
-
-3. **Twitter clone** (ON DEVELOPMENT)
-   - **Description:** A twitter clone made to learn NextJS SSR and CSR, React components and advance on prisma and express backend.
-   - **Repository:** [Twitter clone](https://github.com/juannpg/nextjs-twitter)
 
 Other minor projects I've done are meant to serve as a guide for adding functionality to a website, such as:
 
