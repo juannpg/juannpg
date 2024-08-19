@@ -8,6 +8,7 @@ I am an aspiring web developer. I am continuously learning and expanding my skil
   - JavaScript
   - TypeScript
   - React
+  - NextJS
 
 - **Backend:**
   - Express.js
