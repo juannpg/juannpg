@@ -48,6 +48,11 @@ Other minor projects I've done are meant to serve as a guide for adding function
  2. **React suspense rendering**
     - **Description:** Learn how to use the Suspense utility from React in a NextJS environment.
     - **Repository:** [React Suspense Rendering](https://github.com/juannpg/NextJS-Suspense-Rendering)
+ 3. **Password and other fields encryption**
+    - **Description:** Tutorial on how to encrypt passwords and on how to encrypt other fields in NodeJS and PrismaORM.
+    - **Repository:**
+       - [Password encryption with Argon2](https://github.com/juannpg/password-encrypt-argon2/)
+       - [Fields encryption with prisma-field-encryption](https://github.com/juannpg/encripting-with-prisma)
 
 ## Get In Touch
 I am always open to collaborating on projects and learning opportunities. Feel free to reach out to me through:
