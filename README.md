@@ -28,7 +28,7 @@ Here are some of the projects I have been working on:
 
 1. **Twitter clone**
    - **Description:** A twitter clone made to learn NextJS SSR and CSR, React components and advance on prisma and express backend.
-   - **Repository:** [Twitter clone](https://github.com/juannpg/nextjs-twitter)
+   - **Repository:** [Twitter clone](https://github.com/juannpg/twitter_clone)
 
 2. **HTTP Protocol Project**
    - **Description:** A project demonstrating how to create a server that handles the four main HTTP requests using PostgreSQL, Express, Prisma, and Node.js.
