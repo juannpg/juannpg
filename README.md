@@ -1,4 +1,4 @@
-de# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 ## About Me
 I am an aspiring web developer. I am continuously learning and expanding my skill set to become a full-stack developer.
