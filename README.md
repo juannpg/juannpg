@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+de# Welcome to My GitHub Profile!
 
 ## About Me
 I am an aspiring web developer. I am continuously learning and expanding my skill set to become a full-stack developer.
@@ -19,9 +19,10 @@ I am an aspiring web developer. I am continuously learning and expanding my skil
 I am currently enhancing my knowledge and skills in:
 - Advanced JavaScript and TypeScript
 - Node.js and Express for backend development
+- Csharp with .net for backend development
 - Modern frontend frameworks (such as Astro, React)
 - Database management and integration (such as PostgreSQL)
-- ORMs (such as prisma)
+- ORMs (such as prisma, entity framework)
 
 ## Projects
 Here are some of the projects I have been working on:
