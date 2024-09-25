@@ -14,6 +14,10 @@ I am an aspiring web developer. I am continuously learning and expanding my skil
   - Express.js
   - TypeScript
   - Prisma
+  - C# with EF Core
+
+- **DB:**
+   - Postgres
 
 ## What I'm Learning
 I am currently enhancing my knowledge and skills in:
