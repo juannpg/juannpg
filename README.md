@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next, React Native, Astro**
 
-- 👨‍💻 All of my projects are in my portfolio [https://www.juanpasamargutierrez.dev](juanpasamargutierrez.dev)
+- 👨‍💻 All of my projects are in my portfolio [juanpasamargutierrez.dev](https://www.juanpasamargutierrez.dev)
 
 - 📝 I'm active on tech news in [my linkedin profile](https://www.linkedin.com/in/juan-pasamar-guti%C3%A9rrez-273b4b335)
 
