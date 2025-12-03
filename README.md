@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
-
-- 🔭 I’m currently working on [Goated 🐐](https://www.goatedapp.com/)
-
-- 🌱 I’m currently learning **React, Next, React Native, Astro**
+<h3 align="center">A passionate full stack developer from Spain</h3>
 
 - 👨‍💻 All of my projects are in my portfolio [juanpasamargutierrez.dev](https://www.juanpasamargutierrez.dev)
 
