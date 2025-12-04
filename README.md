@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate full stack developer from Spain</h3>
+<h3 align="center">A passionate developer from Spain</h3>
 
 - 👨‍💻 All of my projects are in my portfolio [juanpasamargutierrez.dev](https://www.juanpasamargutierrez.dev)
 
